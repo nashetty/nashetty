@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Visit my page: http://nadashetty.me/
+Visit my page: https://nashetty.github.io/
 
 <!--
 **nashetty/nashetty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
